@@ -95,6 +95,6 @@ requirements.txt
 
 | Member | Role in the proposal | Name |
 |---|---|---|
-| A | Design, model selection, RAG pipeline, deployment, integration | (fill in) |
+| A | Design, model selection, RAG pipeline, deployment, integration | (Devshree) |
 | B | Document ingestion, chunking, embeddings, vector store, retrieval testing | (fill in) |
 | C | Gradio interface, prompts, citations, feedback, README, slides | (fill in) |
