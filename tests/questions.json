@@ -1,0 +1,74 @@
+[
+  {
+    "question": "How much is the final project worth?",
+    "expected": "04_final_project.md"
+  },
+  {
+    "question": "What happens if I turn in my work late?",
+    "expected": "02_grading_and_late_policy.md"
+  },
+  {
+    "question": "How many pages should the Week 4 report be?",
+    "expected": "03_week4_data_report.md"
+  },
+  {
+    "question": "When are office hours?",
+    "expected": "05_office_hours_and_contact.md"
+  },
+  {
+    "question": "How long does the instructor take to reply to messages?",
+    "expected": "05_office_hours_and_contact.md"
+  },
+  {
+    "question": "How should I plan my study time each week?",
+    "expected": "06_study_tips_time_management.md"
+  },
+  {
+    "question": "How do I prepare for a quiz?",
+    "expected": "07_study_tips_exam_prep.md"
+  },
+  {
+    "question": "What is the difference between mean and median?",
+    "expected": "08_concept_mean_median.md"
+  },
+  {
+    "question": "Does correlation mean one thing causes the other?",
+    "expected": "09_concept_correlation_causation.md"
+  },
+  {
+    "question": "What is sampling bias?",
+    "expected": "10_concept_sampling_bias.md"
+  },
+  {
+    "question": "What does a p-value tell me?",
+    "expected": "11_concept_p_value_and_significance.md"
+  },
+  {
+    "question": "Am I allowed to use ChatGPT for assignments?",
+    "expected": "12_ai_tool_policy_and_integrity.md"
+  },
+  {
+    "question": "How do I cite a source in APA format?",
+    "expected": "13_apa_citation_basics.md"
+  },
+  {
+    "question": "My file will not upload, what should I do?",
+    "expected": "14_technical_support.md"
+  },
+  {
+    "question": "What are the grading parts of the course?",
+    "expected": "01_course_overview.md"
+  },
+  {
+    "question": "Can I work with a partner on the final project?",
+    "expected": "04_final_project.md"
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected": null
+  },
+  {
+    "question": "Who won the football game last night?",
+    "expected": null
+  }
+]
